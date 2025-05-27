@@ -1,4 +1,3 @@
-Dirección del Dashboard donde de muestra la ducacion de las llamadas y la particimacion
-de las mismas (externas e internas)
+Dirección del Dashboard:
 
 https://public.tableau.com/shared/5DJYPHMT4?:display_count=n&:origin=viz_share_link
